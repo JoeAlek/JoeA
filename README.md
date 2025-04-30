@@ -1,0 +1,2 @@
+# JoeA
+Functional discord bot
