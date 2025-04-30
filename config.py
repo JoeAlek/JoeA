@@ -1,7 +1,7 @@
 import os
 
 # Bot configuration
-BOT_PREFIX = "!"
+BOT_PREFIX = "/"
 BOT_NAME = "JoeA"
 BOT_DESCRIPTION = "An automation and moderation tool for Discord servers"
 BOT_OWNER = "Joseph Alekberov"
