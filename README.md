@@ -2,10 +2,12 @@
 
 
 💡 Project Goal:
+
 This project is to create a bot that answers users' questions on the Discord platform, using artificial intelligence. The bot works in any channel and returns answers according to the message written by the user.
 
 
 💡Deploying the bot to the server:
+
 If you want to place the bot on any Discord server, open the html, css, js codes along with the python codes in the VS code program. (Jinja was used when writing the site codes. Therefore, after placing the codes in the VS code program, download Better Jinja from the Extensions section). Then, after writing cd in the terminal, write the path where the file is located. For example, "cd c:\Users\localadmin\Desktop\Discord_bot_projesi\DiscordAssistant". After writing this, write "python app.py". You should get a link like "http://192.168.100.11:5000" or something similar. After you paste this link into your browser, you should see the website I created. Click "Add to Discord". And now you can place the bot on the server you want to host.
 
 OR
@@ -32,6 +34,7 @@ You have created the Token. Now you need to copy this Token and paste it into th
 To activate the bot, open all python files in VS code. In the terminal, type cd (write the path to the code location). For example: c:\Users\localadmin\Desktop\Discord_bot_project\DiscordAssistant). Then, just type "python main.py".
 
 🔧 Technologies and Libraries Used:
+
 The following Python libraries were used in the project:
 
 aiohttp>=3.9.1 # To send asynchronous HTTP requests
@@ -55,7 +58,8 @@ All of this is listed in the requirements.txt file. To install, simply type the 
 pip install -r requirements.txt
 
 
-🛠️ Installation Guide
+🛠️ Installation Guide:
+
 Download the project files from GitHub or in ZIP format.
 
 In the terminal, go to the project folder.
@@ -78,7 +82,9 @@ Keyword Search: Returns answers matching specific keywords.
 Differentiation of different users: Each user is identified by their Discord ID and responses can be personalized accordingly.
 
 Commands:
+
 Commands everyone can use:
+
 1)/register [info]
 Registers you in the bot's database with optional info
 
@@ -116,6 +122,7 @@ Chat with the AI
   Displays detailed information about the server
 
 Moderation Commands:
+
 Admin-only commands:
 
 13)/ban [user_id] [reason]
