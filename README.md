@@ -8,7 +8,7 @@ This project is to create a bot that answers users' questions on the Discord pla
 
 💡Deploying the bot to the server:
 
-If you want to place the bot on any Discord server, open the html, css, js codes along with the python codes in the VS code program. (Jinja was used when writing the site codes. Therefore, after placing the codes in the VS code program, download Better Jinja from the Extensions section). Then, after writing cd in the terminal, write the path where the file is located. For example, "cd c:\Users\localadmin\Desktop\Discord_bot_projesi\DiscordAssistant". After writing this, write "python app.py". You should get a link like "http://192.168.100.11:5000" or something similar. After you paste this link into your browser, you should see the website I created. Click "Add to Discord". And now you can place the bot on the server you want to host.
+If you want to place the bot on any Discord server, open the html, css, js codes along with the python codes in the VS code program. (Jinja was used when writing the site codes. Therefore, after placing the codes in the VS code program, download Better Jinja from the Extensions section). Then, after writing cd in the terminal, write the path where the file is located. For example, "cd c:\Users\localadmin\Desktop\Discord_bot_projesi\DiscordAssistant". After writing this, write "python app.py". You should get a link like "http://192.168.100.11:5000" or something similar. After you paste this link into your browser, you should see the website I created. Click "Add to Discord". And now you can place the bot on the server you want to host.I believe that enhancing my own skills will take my project to new heights.
 
 OR
 
